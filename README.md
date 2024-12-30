@@ -8,17 +8,17 @@ This is a website designed to help NTU students find team members. We initially 
 Users provide personal information to make it easier for others to find them.
 #### 2. Create Team Member Recruitment Posts
 Include details like the required number of members, current number of members, applicants (not yet implemented), course code, course name, etc., to facilitate search.
-#### 3. Search Posts (currently has bugs)
-透過條件搜尋貼文
+#### 3. Search Posts 
+Allows users to search for posts using various filters.
 #### 4. View Personal Post Records
 Users can view the posts they have created.
-#### 5. Commenting Functionality (currently has bugs, does not display)
+#### 5. Commenting Functionality 
 Users can leave comments under posts.
-#### 6. View Other Users’ Personal Pages (UI not implemented)
+#### 6. View Other Users’ Personal Pages 
 Allows users to view others' personal information.
 #### 7. Edit Personal Page
 Users can edit their personal pages.
-#### 8. Apply to Join a Team (not yet implemented)
+#### 8. Apply to Join a Team 
 Post creators can review applicants and approve their requests to join.
 
 ## How to run it (localhost)
